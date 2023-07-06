@@ -25,12 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kasun weerasekara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kasun weerasekara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kasun weerasekara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kasun weerasekara" height="30" width="40" /></a>
-<a href="https://fb.com/kasun weerasekara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kasun weerasekara" height="30" width="40" /></a>
-<a href="https://instagram.com/kasun weerasekara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kasun weerasekara" height="30" width="40" /></a>
-<a href="https://medium.com/@kasunweerasekara-93045" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kasunweerasekara-93045" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kasun weerasekara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kasun weerasekara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshan-madushanka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roshan-Madhusankha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004462394704&mibextid=LQQJ4d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Roshan Madushanka" height="30" width="40" /></a>
+<a href="https://www.instagram.com/roshan__madushanka96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Roshan Madushanka96" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
